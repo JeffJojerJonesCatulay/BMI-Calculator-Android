@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_bmi"
+        android:icon="@drawable/ic_baseline_healing_24"
+        android:title="@string/bmi"
+        />
+
+    <item
+        android:id="@+id/nav_health_tips"
+        android:icon="@drawable/ic_baseline_privacy_tip_24"
+        android:title="@string/tips"
+        />
+
+    <item
+        android:id="@+id/nav_sleep"
+        android:icon="@drawable/ic_baseline_library_music_24"
+        android:title="@string/sleep"
+        />
+</menu>

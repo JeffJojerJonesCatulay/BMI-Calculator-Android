@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".bmi_obese_health_tips">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:src="@drawable/underweight"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"/>
+
+        <TextView
+            android:textAlignment="center"
+            android:textSize="19sp"
+            android:text="Obesity Prevention for Adults"
+            android:textColor="@color/black"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <LinearLayout
+            android:layout_marginTop="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="#00E5FF"
+            >
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:textColor="@color/black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="\u2022 Consume less “bad” fat and more “good” fat"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:text="Contrary to the belief behind the low-fat diet craze of the ’90s, not all fat is bad. ATrusted Source 2017 studyTrusted Source published in the Nutrition Journal showed that intake of healthy dietary fats, such as polyunsaturated fats, can improve cholesterol levels and reduce obesity risk."
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_marginTop="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="#00E5FF"
+            >
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:textColor="@color/black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="\u2022 Consume less processed and sugary foods"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:text="According to a 2016 studyTrusted Source published in The American Journal of Clinical Nutrition,consumption of processed and ultra-processed foods is linked to a higher risk of obesity. Many processed foods are high in fat, salt, and sugar, which can encourage overeating."
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_marginTop="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="#00E5FF"
+            >
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:textColor="@color/black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="\u2022 Eat more servings of vegetables and fruits"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:text="The daily recommendation for fruit and vegetable intake is five to nine servings per day for adults. Filling your plate with veggies and fruit can help keep calories reasonable and reduce the risk of overeating."
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_marginTop="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="#00E5FF"
+            >
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:textColor="@color/black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="\u2022 Eat plenty of dietary fiber"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:text="Studies continue to show that dietary fiber plays a role in weight maintenance. One 2012 trialTrusted Source found that people who took a fiber complex supplement three times daily for 12 weeks lost up to 5 percent of their body weight."
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_marginTop="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="#00E5FF"
+            >
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:textColor="@color/black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="\u2022 Focus on eating low–glycemic index foods"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:text="The glycemic index (GI) is a scale used to measure how quickly a food item will raise your blood sugar. Focusing on low-GI foods can help keep blood sugar levels steadier. Keeping your blood glucose levels steady can help with weight management."
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_marginTop="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="#00E5FF"
+            >
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:textColor="@color/black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="\u2022 Get the family involved in your journey"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:text="Social support isn’t just for children and teens — it’s important for adults to feel supported too. Whether cooking with family or going on walks with friends, getting people involved can help to encourage a healthy lifestyle."
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_marginTop="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="#00E5FF"
+            >
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:textColor="@color/black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="\u2022 Engage in regular aerobic activity"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:text="Incorporating regular physical activity into your schedule is important for maintaining or losing weight, among other benefits. The CDCTrusted Source recommends 150 minutes of moderate aerobic activity or 75 minutes of vigorous aerobic activity per week."
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_marginTop="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="#00E5FF"
+            >
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:textColor="@color/black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="\u2022 Incorporate a weight training regimen"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:text="Weight training is just as important to weight maintenance as aerobic activity. In addition to weekly aerobic activity, the WHO recommends weight training that involves all your major muscles at least two times per week."
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_marginTop="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="#00E5FF"
+            >
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:textColor="@color/black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="\u2022 Focus on reducing daily stress"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:text="Stress can have many effects on the body and mind. A 2012 studyTrusted Source suggests that stress may trigger a brain response that changes eating patterns and leads to cravings for high-calorie foods. Eating too many high-calorie foods can contribute to the development of obesity."
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_marginTop="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="#00E5FF"
+            >
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:textColor="@color/black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="\u2022 Learn how to food budget and meal prep"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:text="It’s much easier to grocery shop for healthy foods when you have a plan. Creating a food budget and list for your shopping trips can help avoid temptations for unhealthy foods. In addition, prepping meals can allow you to have ready-to-go healthy meals."
+                />
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_marginTop="5dp"
+            android:textAlignment="center"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:text="Credits: healthline.com \n\n Source: https://www.healthline.com/health/how-to-prevent-obesity#prevention-for-kids"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />
+
+    </LinearLayout>
+
+</ScrollView>

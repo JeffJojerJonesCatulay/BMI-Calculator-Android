@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".bmi_overweight_health_tips">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <ImageView
+            android:src="@drawable/underweight"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"/>
+
+        <TextView
+            android:textAlignment="center"
+            android:textSize="19sp"
+            android:text="5 Ways to Reach a Healthy Weight"
+            android:textColor="@color/black"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <LinearLayout
+            android:layout_marginTop="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="#00E5FF"
+            >
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:textColor="@color/black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="\u2022 Exercise."
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:text="Regular physical activity burns calories and builds muscle — both of which help you look and feel good and keep weight off. Walking the family dog, cycling to school, and doing other things that increase your daily level of activity can all make a difference. If you want to burn more calories, increase the intensity of your workout and add some strength exercises to build muscle. The more muscle you have, the more calories you burn, even when you aren't exercising."
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_marginTop="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="#00E5FF"
+            >
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:textColor="@color/black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="\u2022 Reduce screen time."
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:text="People who spend a lot of time in front of screens are more likely to be overweight. Set reasonable limits on the amount of time you spend watching TV, playing video games, and using computers, phones, and tablets not related to school work. Be sure to set aside enough time to exercise every day and get enough sleep."
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_marginTop="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="#00E5FF"
+            >
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:textColor="@color/black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="\u2022 Watch out for portion distortion. "
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:text="Big portions pile on extra calories that cause weight gain. Sugary beverages, such as sodas, juice drinks, and sports drinks, are empty calories that also contribute to obesity. So choose smaller portions (or share restaurant portions) and go for water or low-fat milk instead of soda."
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_marginTop="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="#00E5FF"
+            >
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:textColor="@color/black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="\u2022 Eat 5 servings of fruits and veggies a day. "
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:text="Fruits and veggies are about more than just vitamins and minerals. They're also packed with fiber, which means they fill you up. And when you fill up on fruits and veggies, you're less likely to overeat."
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_marginTop="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="#00E5FF"
+            >
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:textColor="@color/black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="\u2022 Don't skip breakfast. "
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:text="Breakfast kickstarts your metabolism, burning calories from the get-go and giving you energy to do more during the day. People who skip breakfast often feel so hungry that they eat more later on. So they get more calories than they would have if they ate breakfast. In fact, people who skip breakfast tend to have higher BMIs than people who eat breakfast."
+                />
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_marginTop="5dp"
+            android:textAlignment="center"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:text="Credits: kidshealth.org \n\n Source: https://kidshealth.org/en/teens/weight-tips.html"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Medical App</string>
+    <string name="name">Jeff Jojer Jones E. Catulay</string>
+    <string name="bmi">BMI</string>
+    <string name="tips">Health Tips</string>
+    <string name="mental">Mental Health</string>
+    <string name="sleep">Sleep Music</string>
+
+    <string name="underweight">You\'re BMI Result is Underweight</string>
+    <string name="normal">You\'re BMI Result is Normal Weight</string>
+    <string name="overweight">You\'re BMI Result is Overweight</string>
+    <string name="obesity">You\'re BMI Result is Obesity</string>
+    <string name="severe">You\'re BMI Result is Severe Obesity</string>
+
+    <string name="bmi_UW">Underweight = less than 18.5 BMI</string>
+    <string name="bmi_NW">Normal weight = 18.5 – 24.9 BMI</string>
+    <string name="bmi_OW">Overweight = 25 – 29.9 BMI</string>
+    <string name="bmi_O">Obesity = 30 – 35 BMI</string>
+    <string name="bmi_SO">Severe obesity = 35 and more BMI</string>
+
+
+    <string name="kg">Kg</string>
+    <string name="lbs">lbs</string>
+
+    <string name="m">m</string>
+    <string name="inch">inch</string>
+
+    <string name="tip1">Tips for Underweight Person</string>
+    <string name="tip2">Tips for Normal Weight Person</string>
+    <string name="tip3">Tips for Overweight Person</string>
+    <string name="tip4">Tips for Obese Person</string>
+    <string name="tip5">Tips for Severe Obese Person</string>
+
+    <string name="mental_health">Mental Health is as important as Physical Health</string>
+
+    <string name="w1_name">Psych Central</string>
+    <string name="w1_des">Psych Central is one of the oldest websites about mental health. The award winning website has been around ever since 1995 and has touched the lives of many. As is quite evident from the name the blog keenly focuses on the psych of a person.
+        </string>
+
+    <string name="w2_name">Head To Health</string>
+    <string name="w2_des">Is a website that has tons and tons of information on how you can achieve great mental health. You can also refer this site to anyone who is in mental stress.
+    </string>
+
+    <string name="w3_name">Headspace</string>
+    <string name="w3_des">If you are finding it hard to focus on your life-goals all because you are stressed, then you should definitely check Headspace out. It contains hundreds of articles and blogs about mental health.
+    </string>
+
+    <string name="w4_name">Verywell mind</string>
+    <string name="w4_des">Verywell mind is one website that you should consult to gain deep knowledge about mental health and awareness. It has a myriad of content pieces curated by physicians and experienced healthcare professionals - doctors, social workers, therapists and physicians.
+    </string>
+
+    <string name="w5_name">Calm Sage</string>
+    <string name="w5_des">A peaceful mind in a high paced world can be achieved only if you’ve inculcated the right habits in your lifestyle. And, Calm Sage is one of those websites about mental health which posts actionable tips and tricks through which a person can attain a state of great mental well being.
+    </string>
+
+    <string name="w6_name">7 Cups</string>
+    <string name="w6_des">Stress can go to an extent when it can take a critical toll on your mental health as well. It is imperative that you have someone to talk to and vent that stress out. And, when we say someone, we mean someone who is wise and empathetic enough. 7 cups is one of those websites about mental health which has caring listeners who are always there for offering emotional support.
+    </string>
+
+    <string name="w7_name">Developing Good habits</string>
+    <string name="w7_des">As mentioned earlier in the blog, if you have incorporated good habits in your lifestyle, you have a higher probability of not going through stress in life. That’s because then you’ll be able to differentiate between what’s wrong and what’s right. You’ll be able to take steps that’ll make your life simple and simplicity in a way does remove stress. That’s exactly what Developing Good Habits focuses on.
+    </string>
+
+    <string name="w8_name">Happiful</string>
+    <string name="w8_des">Key to overall happiness is mental peace, something that can be attained is everything in your life is sorted.
+    </string>
+
+    <string name="w9_name">The Mighty</string>
+    <string name="w9_des">Last but not the least, The Mighty is a website that gives you enormous amounts of support through quality content on health related challenges. It has community support which provides valuable input on mental health related topics on a daily basis.
+    </string>
+
+</resources>
